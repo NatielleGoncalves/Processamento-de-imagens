@@ -2,17 +2,45 @@
 
 Repositório para a disciplina de processamento de imagens médicas. Este repositório terá códigos em Java e em Python.
 
-## Documentação consultada
+**OBS:** Está em andamento ainda a construção.
 
-### Python
+## Principais referências utilizadas
 
-- OpenCV: <https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html>
+### Livros consultados
 
-### Java
+- **Processamento Digital de Imagens 3° edição** (Autores: *Rafael C. Gonzalez* e *Richard E. Woods*)
+
+- **Digital Image Processing - An Algorithmic Introduction Using Java - Second Edition** (Autores: *Wilhelm Burger* e *Mark J. Burge*)
+
+- **Practical Python and OpenCV: An introductory, example driven guide to image processing and Computer Vision- 3rd Edition** (Autores: *Dr. Adrian Rosebrock*)
+
+### Repositório de imagens
+
+  Para obter as imagens que normalmente são utilizadas para aprender sobre processamento de imagem, basta acessar este link <http://www.imageprocessingplace.com/root_files_V3/image_databases.htm>. Nele há diversos links e links para download de diferentes tipos de imagens.
+
+## Java
+
+### Documentação consultada em Java
+
+- Documentação da API do ImageJ para usar com Java: <https://imagej.nih.gov/ij/developer/api/index.html>
+
+### Pre-requisitos em Java
+
+- Instalar o ImageJ: <https://imagej.nih.gov/ij/download.html>
+
+### Como executar o código em Java
 
 Ainda sem conteúdo.
 
-## Pre-requisitos
+---
+
+## Python
+
+### Documentação consultada em Python
+
+- OpenCV: <https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html>
+
+### Pre-requisitos em Python
 
 - Instalar o python 3:
   Com o Chocolatey: Abrir o cmd ou PowerShell como administrador e executar `choco install -y python3`
@@ -25,6 +53,6 @@ Ainda sem conteúdo.
 - Instalar a biblioteca do matplotlib:
 `python -m pip install -U matplotlib`
 
-## Como utilizar as bibliotecas instaladas
+### Como executar o código em Python
 
-- OpenCV: `import cv2`
+Ainda sem conteúdo.
